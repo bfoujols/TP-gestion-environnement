@@ -1,0 +1,15 @@
+{
+    "name": "redbull/tp-gestion-environnement",
+    "autoload": {
+        "psr-4": {
+            "TPGE\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Benoit Foujols",
+            "email": "benoit@foujols.com"
+        }
+    ],
+    "require": {}
+}
